@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tmoradi/fourth-brain/fourth-brain-code/assignments/week-7-intro-dl/nb/mlruns/0/eadf7b9198134d6c82fa97478ff64802/artifacts
+end_time: 1664835742143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: eadf7b9198134d6c82fa97478ff64802
+run_uuid: eadf7b9198134d6c82fa97478ff64802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664835737007
+status: 3
+tags: []
+user_id: tmoradi
